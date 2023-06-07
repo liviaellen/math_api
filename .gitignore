@@ -1,0 +1,19 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore Streamlit cache and session files
+.streamlit/
+
+# Ignore __pycache__ directories
+__pycache__/
